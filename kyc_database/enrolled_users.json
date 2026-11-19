@@ -1,0 +1,34 @@
+{
+  "USR001": {
+    "user_id": "USR001",
+    "display_name": "priya",
+    "vector_path": "kyc_database\\USR001__priya.npy",
+    "balance": 18050.0,
+    "enrolled_at": "2026-11-04T10:20:20Z",
+    "img_path": "kyc_database\\USR001__priya.jpg"
+  },
+  "USR002": {
+    "user_id": "USR002",
+    "display_name": "niranjan",
+    "vector_path": "kyc_database\\USR002__niranjan.npy",
+    "balance": 250.0,
+    "enrolled_at": "2026-11-04T10:23:37Z",
+    "img_path": "kyc_database\\USR002__niranjan.jpg"
+  },
+  "USR003": {
+    "user_id": "USR003",
+    "display_name": "lokeswar",
+    "vector_path": "kyc_database\\USR003__lokeswar.npy",
+    "balance": 700.0,
+    "enrolled_at": "2026-11-06T06:24:15Z",
+    "img_path": "kyc_database\\USR003__lokeswar.jpg"
+  },
+  "USR004": {
+    "user_id": "USR004",
+    "display_name": "yaswanth",
+    "vector_path": "kyc_database\\USR004__yaswanth.npy",
+    "balance": 850.0,
+    "enrolled_at": "2026-11-06T06:27:03Z",
+    "img_path": "kyc_database\\USR004__yaswanth.jpg"
+  }
+}
